@@ -5,9 +5,12 @@ per-actor, controlled entirely by Active Effects.
 
 ## Installation
 
-1. Copy the `coc7-damage-immunity/` folder into your Foundry data directory:
-   `<FoundryData>/Data/modules/coc7-damage-immunity/`
+1. In Foundry's **Add-on Modules → Install Module**, paste this manifest URL
+   and click **Install**:
+   `https://github.com/ronsterama/coc7-damage-immunity/releases/latest/download/module.json`
 2. In Foundry: **Settings → Manage Modules → enable "CoC7 Damage Immunity"**
+
+Updates then appear under **Check for Update**.
 
 ## How to Mark an Actor as Immune
 
