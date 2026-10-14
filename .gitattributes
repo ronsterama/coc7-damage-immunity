@@ -1,0 +1,2 @@
+# Pack files are LevelDB binaries; never normalise line endings.
+packs/** binary

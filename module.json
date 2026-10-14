@@ -1,0 +1,31 @@
+{
+  "id": "coc7-damage-immunity",
+  "title": "CoC7 Damage Immunity",
+  "description": "Blocks damage by skill type for actors carrying a Damage Immunity item. Includes a compendium of ready-made immunity items to drag onto NPCs.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Ronnie"
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "14"
+  },
+  "esmodules": [
+    "immunity.js"
+  ],
+  "packs": [
+    {
+      "name": "immunity-items",
+      "label": "Damage Immunity Items",
+      "path": "packs/immunity-items",
+      "type": "Item",
+      "system": "CoC7"
+    }
+  ],
+  "languages": [],
+  "url": "https://github.com/ronsterama/coc7-damage-immunity",
+  "manifest": "https://github.com/ronsterama/coc7-damage-immunity/releases/latest/download/module.json",
+  "download": "https://github.com/ronsterama/coc7-damage-immunity/releases/download/v1.0.0/module.zip"
+}
